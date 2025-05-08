@@ -1,2 +1,3 @@
-# phoenixtest
-Repository for testing purposes
+# Calculator
+
+A simple calculator application.
